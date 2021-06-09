@@ -1,0 +1,9 @@
+title : Nunito 72 blod #313235
+sub-title : Nunito 36 regular #3E3F43
+nav : 
+    selected : Nunito 16 extrabold #DAA520
+    text : Nunito 16 regular #222222 75%(opacity)
+    sing-up : Nunito 16 bold #3E3F43
+color :
+    or : #DAA520
+    rose : #F9BDBD
